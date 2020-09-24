@@ -11,7 +11,7 @@
 ## Installation
 Installation is only available directly from this repo:
 
-    pip install git+https://github.com/Sovetnikov/django_periodiq
+    pip install git+https://github.com/District-so/django_periodiq
 
 Add `django_periodiq` to installed apps *after* django_dramatiq:
 
